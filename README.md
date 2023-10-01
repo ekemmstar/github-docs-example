@@ -37,9 +37,16 @@ end
 result = factorial(5)
 puts "Factorial of 5 is #{result}"
 
-<img width="200px" src="https://github.com/ekemmstar/github-docs-example/assets/103825682/0839480d-3f79-4f4b-aa20-26be50f46fcf "/>
+```
+
+<img width="200px" src="assets/blogw.png" />
+
+
 
 Good Cloud Engineers use codeblocks for both code and Errors that appear in the console.
+
+
+
 ```bash
 TypeError: no implicit conversion of Integer into String
 ```
@@ -71,6 +78,8 @@ You can use the followwing markdown format to create tables
 | Cloud with Lightning| `:cloud_with_lightning`|🌩️ |
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formattiing options.[<sup>[5]</sup>](#external-references)
+
+![Photo taken online ](assets/blogw.png)
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]</sup>
 - [Basic writing and formatting syntax(Github Flavoured Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images0)<sup>[2]</sup>
