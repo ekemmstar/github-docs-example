@@ -80,6 +80,7 @@ You can use the followwing markdown format to create tables
 Github extends the functionality of Markdown tables to provide more alignment and table cell formattiing options.[<sup>[5]</sup>](#external-references)
 
 ![Photo taken online ](assets/blogw.png)
+
 [Secret Window Hidden Garden](secret-window/hidden-garden.md)
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]</sup>
