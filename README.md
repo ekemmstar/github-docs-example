@@ -81,7 +81,7 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 ![Photo taken online ](assets/blogw.png)
 
-[Secret Window Hidden Garden](secret/hidden-garden.md)
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]</sup>
 - [Basic writing and formatting syntax(Github Flavoured Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images0)<sup>[2]</sup>
